@@ -41,27 +41,17 @@
 ---
 
 ## 🔧 Outils de Développement & Conception
-- UML (modélisation objet, diagrammes de classe, séquence)  
-- Git, GitHub  
-- Visual Studio, VS Code  
-- Méthodologies Agile / Scrum
+
+![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-6D1A36?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-- 🔬 **Détection de maladies thoraciques à l’aide du Deep Learning**  
-
-- 📡 **Prévision météorologique par réseaux de neurones**  
-
-- 🌿 **Harmonia – Plateforme de bien-être au travail**  
-  Application web développée pour améliorer la gestion des ressources humaines et le suivi du bien-être psychologique des employés en entreprise.
-
-- 📚 **Gestion complète d’une bibliothèque**  
-  Système de gestion intégré permettant la gestion des prêts, retours, catalogues et adhérents.
-
-- 🎴 **CHKOBA – Jeu de cartes**  
-  Développement d’un jeu de cartes avec interface utilisateur interactive.
-
----
 
 ## 📫 Me Contacter
 
