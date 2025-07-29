@@ -1,4 +1,8 @@
-👩‍💻 Cyrine | Étudiante en Master Informatique & Passionnée d'IA
+<h1 align="center">👩‍💻 Cyrine | Étudiante en Master Informatique & Passionnée d'IA</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Master+en+Informatique+%7C+IHEC+Carthage;IA+%2B+Data+Science+%2B+Web+Dev+%3D+💡" alt="Typing SVG" />
+</p>
 
 🎓 Diplômée d'une **licence en informatique de gestion** à l'IHEC Carthage  
 🎯 Actuellement en **Master Informatique**, je suis passionnée par l'intelligence artificielle, la data science et les technologies web.
@@ -42,12 +46,37 @@
 
 ## 🔧 Outils de Développement & Conception
 
-![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6D1A36?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6D1A36?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+---
+
+## ✨ GitHub Stats & Activité
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyrinenighaoui&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrinenighaoui&theme=radical" alt="GitHub streak" />
+</p>
+
+---
 
 ## 📫 Me Contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrine-nighaoui/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrine.nighaoui.2022@ihec.ucar.tn)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyrine-nighaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cyrine.nighaoui.2022@ihec.ucar.tn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-⭐ *Toujours curieuse, motivée et à la recherche de projets innovants mêlant IT, IA et vision business.*
+
+<p align="center">⭐ Toujours curieuse, motivée et à la recherche de projets innovants mêlant IT, IA et vision business.</p>
