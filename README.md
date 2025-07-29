@@ -47,8 +47,7 @@
 ---
 ## 🎓 Formations
 
-[![Formation IA]([https://img.shields.io/badge/Formation-Intelligence_Artificielle-blue?style=for-the-badge](https://coursera.org/share/79ded3282768fb357b64c9d5c0f40cf2))]([https://lien-de-ta-formation-ia.com](https://coursera.org/share/79ded3282768fb357b64c9d5c0f40cf2))  
-[![Formation Python](https://img.shields.io/badge/Formation-Python-yellow?style=for-the-badge)](https://lien-de-ta-formation-python.com)  
+[![Formation IA](https://img.shields.io/badge/Formation-Intelligence_Artificielle-blue?style=for-the-badge)](https://coursera.org/share/79ded3282768fb357b64c9d5c0f40cf2)
 ---
 ## 📫 Me Contacter
 
