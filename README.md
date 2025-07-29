@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Cyrine | Étudiante en Master Informatique & Passionnée d'IA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=Master+en+Informatique+%7C+IHEC+Carthage;IA+%2B+Data+Science+%2B+Web+Dev+%3D+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=435&lines=IA+%2B+Data+Science+%2B+Web+Dev+%3D+💡" alt="Typing SVG" />
 </p>
 
 🎓 Diplômée d'une **licence en informatique de gestion** à l'IHEC Carthage  
